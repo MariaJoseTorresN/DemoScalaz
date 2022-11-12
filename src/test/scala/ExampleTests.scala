@@ -95,7 +95,7 @@ class ExampleTests {
 
   @Test
   def exhibitAllImplementedBehaviour: Unit = {
-    // genera intervalo
+    // genera rango
     val expectedEnum =
       IList(Priority(1, "LOW"), Priority(2, "MEDIUM"), Priority(3, "HIGH"))
     assertEquals(expectedEnum, LOW |-> HIGH)
