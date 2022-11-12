@@ -31,8 +31,6 @@ score1 ?|? score1
 num1.shows
 num1.shows === num2
 
-//Falta show threads
-
 //Enum
 val enum = 'a' |-> 'g'
 val enumAsList = enum.toList
